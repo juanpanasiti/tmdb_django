@@ -12,3 +12,6 @@ venv
 
 # DB
 *.sqlite3
+
+# Media files
+media
